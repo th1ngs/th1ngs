@@ -15,12 +15,11 @@
 
 `TypeScript` · `JavaScript` · `Python` · `SQL` · `Power BI`
 
-### Projetos públicos
+### Projeto em destaque
 
-| Projeto | Descrição |
-| --- | --- |
-| [sql_excel_python](https://github.com/th1ngs/sql_excel_python) | Aplicação de estudos em SQL, Excel e Python. |
-| [Dados-Analyst-](https://github.com/th1ngs/Dados-Analyst-) | Portfólio de análise de dados. |
+**[Analyst Master](https://github.com/th1ngs/sql_excel_python)** — plataforma interativa para estudar SQL, Excel e Python.
+
+[Ver código](https://github.com/th1ngs/sql_excel_python) · [Acessar aplicação](https://sql-excel-python.vercel.app)
 
 ### Vamos conversar?
 
