@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Wesley 👋</h1>
 
-<!--
-**th1ngs/th1ngs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Desenvolvo aplicações web, automações e projetos com dados.</p>
+<p align="center">📍 Itapoá, SC, Brasil</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que você encontra por aqui
+
+- Aplicações e ferramentas para resolver problemas do dia a dia.
+- Experimentos com automação, dados e interfaces.
+- Projetos em evolução — gosto de aprender construindo.
+
+### Tecnologias
+
+`TypeScript` · `JavaScript` · `Python` · `SQL` · `Power BI`
+
+### Projetos públicos
+
+| Projeto | Descrição |
+| --- | --- |
+| [sql_excel_python](https://github.com/th1ngs/sql_excel_python) | Aplicação de estudos em SQL, Excel e Python. |
+| [Dados-Analyst-](https://github.com/th1ngs/Dados-Analyst-) | Portfólio de análise de dados. |
+
+### Vamos conversar?
+
+[LinkedIn](https://www.linkedin.com/in/wesley-da-rochaa) · [Instagram](https://instagram.com/powesley_)
